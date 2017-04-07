@@ -1,0 +1,219 @@
+Management’s discussion and analysis of results of operations and financial condition (“MD&A”) is a supplement to the accompanying consolidated
+financial statements and provides additional information on Time Warner Inc.’s (“Time Warner” or the “Company”) businesses, current developments,
+financial condition, cash flows and results of operations. MD&A is organized as follows:
+• Overview. This section provides a general description of Time Warner’s business segments, as well as recent developments the
+Company believes are important in understanding the results of its operations and financial condition or in understanding anticipated
+future trends.
+• Results of operations. This section provides an analysis of the Company’s results of operations for the three years ended December 31,
+2015. This analysis is presented on both a consolidated and a business segment basis. In addition, a brief description of transactions and
+other items that affect the comparability of the results being analyzed is provided.
+• Financial condition and liquidity. This section provides an analysis of the Company’s cash flows for the three years ended
+December 31, 2015 and the Company’s outstanding debt and commitments as of December 31, 2015. Included in the analysis of
+outstanding debt is a discussion of the amount of financial capacity available to fund the Company’s ongoing operations and future
+commitments, as well as a discussion of other financing arrangements.
+• Market risk management. This section discusses how the Company monitors and manages exposure to potential gains and losses
+arising from changes in market rates and prices, such as interest rates, foreign currency exchange rates and changes in the market value of
+financial instruments.
+• Critical accounting policies. This section identifies those accounting policies that are considered important to the Company’s results
+of operations and financial condition, require significant judgment and involve significant management estimates. The Company’s
+significant accounting policies, including those considered to be critical accounting policies, are summarized in Note 1, “Description of
+Business, Basis of Presentation and Summary of Significant Accounting Policies,” to the accompanying consolidated financial
+statements.
+• Caution concerning forward-looking statements. This section provides a description of the use of forward-looking information
+appearing in this report, including in MD&A and the consolidated financial statements. Such information is based on management’s
+current expectations about future events, which are inherently susceptible to uncertainty and changes in circumstances. Refer to Item 1A,
+“Risk Factors,” in Part I of this report for a discussion of the risk factors applicable to the Company.
+OVERVIEW
+Time Warner is a leading media and entertainment company whose major businesses encompass an array of the most respected and successful media
+brands. Among the Company’s brands are TNT, TBS, Adult Swim, Cartoon Network, CNN, HBO, Cinemax, Warner Bros. and New Line Cinema. During the
+year ended December 31, 2015, the Company generated Revenues of $28.118 billion (up 3% from $27.359 billion in 2014), Operating Income of $6.865
+billion (up 15% from $5.975 billion in 2014), Income from continuing operations of $3.795 billion (down 3% from $3.894 billion in 2014), Net Income
+attributable to Time Warner shareholders of $3.833 billion (essentially flat compared to $3.827 billion in 2014) and Cash provided by operations from
+continuing operations of $3.851 billion (up 5% from $3.681 billion in 2014). The Company’s results for the year ended December 31, 2014 were
+significantly impacted by the sale and leaseback of the Company’s space in Time Warner Center in January 2014, the reversal of certain tax reserves in
+connection with an audit settlement, restructuring and severance costs and programming impairments.
+Time Warner Businesses
+Time Warner classifies its operations into three reportable segments: Turner, Home Box Office and Warner Bros. For additional information regarding
+Time Warner’s segments, refer to Note 15, “Segment Information,” to the accompanying consolidated financial statements.
+Turner. Time Warner’s Turner segment consists of businesses managed by Turner Broadcasting System, Inc. (“Turner”). During the year ended
+December 31, 2015, the Turner segment recorded Revenues of $10.596 billion (37% of the Company’s total Revenues) and Operating Income of $4.087
+billion.
+Turner operates domestic and international television networks and related properties that offer entertainment, sports, kids and news programming on
+television and digital platforms for consumers around the world. The Turner networks and related properties include TNT, TBS, Adult Swim, truTV, Turner
+Classic Movies, Turner Sports, Cartoon Network, Boomerang, CNN and HLN. The Turner networks generate revenues principally from providing
+programming to affiliates that have contracted to receive and distribute this programming to subscribers, from the sale of advertising and from licensing its
+original programming, including to subscription-video-on-demand (“SVOD”) and other over-the-top (“OTT”) services, and its brands and characters for
+consumer products and other business ventures. Turner’s programming is available to audiences for viewing live and on demand across television, mobile
+devices and other digital platforms through services provided by affiliates and on Turner’s digital properties. Turner also owns and operates various digital
+media businesses, including Bleacher Report; the CNN digital properties, including CNN Go, CNN.com and CNNMoney.com; and other digital properties
+associated with its networks, all of which generate revenues principally from the sale of advertising and sponsorships. In addition, Turner manages and
+operates sports league digital properties in conjunction with associated television rights, such as NBA Digital and NCAA.com, which also generate revenues
+primarily from the sale of advertising and sponsorships.
+Home Box Office. Time Warner’s Home Box Office segment consists of businesses managed by Home Box Office, Inc. (“Home Box Office”). During
+the year ended December 31, 2015, the Home Box Office segment recorded Revenues of $5.615 billion (20% of the Company’s total Revenues) and
+Operating Income of $1.878 billion.
+Home Box Office operates the HBO and Cinemax multi-channel premium pay television services, with the HBO service ranking as the most widely
+distributed multi-channel premium pay television service. HBO- and Cinemax-branded premium pay, basic tier television or streaming services are
+distributed in over 60 countries in Latin America, Asia and Europe. In April 2015, Home Box Office launched HBO NOW, a stand-alone premium streaming
+service available to consumers in the U.S. During 2015, the HBO and Cinemax services, including HBO NOW, increased domestic subscribers by
+approximately 2.7 million, and, as of December 31, 2015, the services had approximately 49 million domestic subscribers.
+In the U.S., Home Box Office generates revenues principally from providing programming to affiliates that have contracted to receive and distribute
+such programming to their customers who subscribe to the HBO or Cinemax services. HBO and Cinemax programming is available in the U.S. to subscribers
+of affiliates for viewing on its main HBO and Cinemax channels and its multiplex channels, through Home Box Office’s on demand services, HBO On
+Demand and Cinemax On Demand, and through Home Box Office’s streaming video-on-demand services, HBO GO and MAX GO. HBO GO and MAX GO are
+available on a variety of digital platforms, including mobile devices, gaming consoles and Internet connected streaming devices and televisions. Home Box
+Office’s agreements with its domestic affiliates are typically long-term arrangements that provide for annual service fee increases and marketing support.
+While fees to Home Box Office under affiliate agreements are generally based on the number of subscribers served by the affiliates, the relationship between
+subscriber totals and the amount of revenues earned depends on the specific terms of the applicable agreement, which may include basic and/or pay
+television subscriber thresholds, volume discounts and other performance-based discounts. Most of the subscriber additions in 2015 did not generate
+revenues for Home Box Office in 2015 due to the terms of the affiliate agreements. Marketing and promotional activities intended to retain existing
+subscribers and acquire new subscribers may also impact revenue earned.
+Home Box Office also derives subscription revenues from the distribution by international affiliates of country-specific HBO and Cinemax premium
+pay, basic tier television and streaming services to their local subscribers and direct-to-consumer streaming services. HBO GO is available to HBO premium
+pay television subscribers in a number of countries outside the U.S.
+Additional sources of revenues for Home Box Office are (i) the home entertainment sales of its original programming, including Game of Thrones,
+True Blood, Boardwalk Empire and True Detective, via physical and digital formats and (ii) the licensing of its original programming to SVOD services and
+international television networks.
+Warner Bros. Time Warner’s Warner Bros. segment consists of businesses managed by Warner Bros. Entertainment Inc. (“Warner Bros.”) that
+principally produce and distribute television shows, feature films and videogames. During the year ended December 31, 2015, the Warner Bros. segment
+recorded Revenues of $12.992 billion (43% of the Company’s total Revenues) and Operating Income of $1.416 billion.
+Warner Bros. is a leader in television production and distribution. For the 2015/2016 season, Warner Bros. has produced over 65 original series in the
+U.S., including (i) at least two series for each of the five broadcast networks (including 2 Broke Girls, Arrow, The Bachelor, The Big Bang Theory, Blindspot,
+DC’s Legends of Tomorrow , The Flash, Gotham, Lucifer, The Middle, Mike & Molly, Mom, Rush Hour, Supergirl, Supernatural, Vampire Diaries and The
+Voice), (ii) series for basic cable networks (including Major Crimes, Pretty Little Liars and Rizzoli & Isles), (iii) series for premium pay television services
+(including The Leftovers, Shameless and Westworld), (iv) series for SVOD services (including 11.22.63, Fuller House and Longmire), (v) series for first-run
+syndication (including The Ellen DeGeneres Show, Extra, The Real and TMZ) and (vi) animated series for Cartoon Network, Adult Swim and Disney XD
+(including Airline Earth, Be Cool, Scooby Doo!, Bunnicula, Mike Tyson Mysteries, Teen Titans Go! and Wabbit). Warner Bros. also licenses the rights to
+many of its U.S. original television series in international territories. Outside the U.S., Warner Bros. has a global network of production companies in 16
+countries (located across Europe and South America and in Australia and New Zealand), which allows Warner Bros. to develop programming specifically
+tailored for the audiences in these territories. These local production companies also focus on developing non-scripted programs and formats that can be
+adapted and sold internationally and in the U.S. Television product revenues are generated principally from the licensing of programs to broadcast and cable
+television networks and premium pay television and SVOD services.
+Warner Bros. is also a leader in the feature film industry and produces feature films under its Warner Bros. and New Line Cinema banners. The Warner
+Bros. segment’s theatrical product revenues are generated principally through rental fees from theatrical exhibition of feature films, including the following
+recently released films: Black Mass, Creed, Get Hard, The Intern, Mad Max: Fury Road, Magic Mike XXL, The Man from U.N.C.L.E., San Andreas and
+Vacation, and subsequently through licensing fees received from the distribution of films on premium pay television, broadcast and cable television
+networks and SVOD services.
+Warner Bros. is a leader in the home entertainment and videogame industries. The segment also generates television and theatrical product revenues
+from the distribution of television and theatrical product in various physical and digital formats (e.g., electronic sell-through (“EST”) and video-on-demand).
+In addition, the segment generates revenues through the development and distribution of videogames, including the following recently released videogames:
+Batman: Arkham Knight, LEGO Dimensions a n d Mortal Kombat X. Warner Bros.’ television, film and videogame businesses benefit from a shared
+infrastructure, including shared production, distribution, marketing and administrative functions and resources.
+The distribution and sale of home entertainment product in physical formats is one of the largest contributors to the segment’s revenues and profits.
+For the past several years, sales of home entertainment product in physical formats have declined as the home entertainment industry has been undergoing
+significant changes as it transitions from the physical distribution of film and television content via physical discs to the electronic delivery of such content.
+Several factors have contributed to this decline, including consumers shifting to SVOD and other OTT services and discount rental kiosks, which generate
+significantly less revenue per transaction for the Company than sales of home entertainment product in physical
+formats; changing retailer initiatives and strategies (e.g., reduction of floor space devoted to home entertainment product in physical formats); retail store
+closures; increasing competition for consumer discretionary time and spending; and piracy. The electronic delivery of film and television content is growing
+and becoming more important to the Warner Bros. segment, which has helped to offset some of the decline in sales of home entertainment product in physical
+formats. During 2015, across the home entertainment industry, consumer spending on home entertainment product in physical formats continued to decline
+and consumer spending on electronic delivery continued to increase.
+Television Industry
+The television industry is continuing to evolve, with changes in technology, rapid growth in new video services, and a corresponding increase in
+overall video content consumption and shift in consumer viewing patterns. Consumers are watching an increasing amount of programming on-demand and
+across a wide variety of services and devices, including smartphones, tablets, PCs and internet-connected televisions. During 2014 and 2015, the number of
+multichannel video service subscribers in the U.S. declined slightly, and the Company expects further modest declines. To counteract this trend, some
+multichannel video service providers (“MVPDs”) are putting greater emphasis on selling smaller bundles of cable networks, resulting in higher subscriber
+declines for most individual networks than for multichannel video services in total.
+At the same time, the penetration of broadband and internet-connected devices has grown and SVOD services such as Amazon Prime, Hulu and
+Netflix have continued to increase their number of subscribers. These SVOD services have been, and are expected to continue, making significant
+investments in acquired and original programming. In addition, ad-supported broadband video services such as those offered through YouTube and
+Facebook have continued to gain in popularity. Some television networks have launched SVOD and other OTT services that are available to consumers
+without a multichannel video service subscription.
+As a result of these changes, consumers have more options for obtaining video content, including lower-cost alternatives. At the same time, however,
+the combination of new competitors, changes in viewing habits and declines in MVPD subscribers has negatively affected overall television ratings and, as a
+result, television advertising revenues for the industry and certain of the Company’s networks. There also has been a corresponding shift of advertising
+dollars to non-traditional video outlets.
+To address these changes, the Company’s strategy over the past few years has focused on strengthening its position within the traditional TV
+ecosystem, enhancing the value of traditional pay television subscriptions for consumers, and pursuing new opportunities outside the traditional TV
+ecosystem. As part of this strategy, the Company plans to continue increasing its investment in high-quality distinctive programming to enhance the value of
+its networks. The Company is also working to enhance the value to consumers of the traditional MVPD bundle and capitalize on the shift in consumption
+habits in a number of ways, including by expanding the amount of its content that is available on demand and supporting the development of better user
+interfaces for on-demand multiplatform viewing. The Company is also pursuing a number of initiatives to capitalize on the new opportunities presented by
+these changes, including launching and investing in SVOD and other OTT services, as well as investing in short-form content production and digital-first
+news and entertainment networks. In addition, Turner has introduced new advertising products that provide greater data analytic tools and targeting
+capabilities to advertisers in order to more effectively compete with non-traditional outlets.
+Recent Developments
+Central European Media Enterprises Ltd.
+2016 Transactions
+On February 19, 2016, CME Media Enterprises B.V. (“CME BV”), a subsidiary of Central European Media Enterprises Ltd. (“CME”), entered into a
+credit agreement (the “2016 Credit Agreement”) with third-party financial institutions for an approximate €470 million senior unsecured term loan (the
+“2016 Term Loan”) that will be funded in April
+2016 and matures on February 19, 2021. Time Warner has guaranteed CME BV’s obligations under the 2016 Credit Agreement for a fee equal to a rate based
+on CME’s net leverage, which initially is 10.5%, less the interest rate on the 2016 Term Loan, to be paid to Time Warner semi-annually. CME BV must pay a
+portion of the fee in cash and may, at CME BV’s option, pay the remainder in cash or in kind. In April 2016, CME will use cash on hand and the proceeds of
+the 2016 Term Loan to repay in their entirety both its Senior Secured Notes due 2017 (the “Senior Secured Notes”) and the term loan Time Warner provided
+CME in 2014 (the “TW Term Loan”), which also is due in 2017. Time Warner expects to receive approximately $485 million in connection with CME’s
+repayment of the Senior Secured Notes and the TW Term Loan. As consideration for assisting CME in refinancing its debt due in 2017, Time Warner will earn
+a fee equal to 1% of the aggregate principal amount of the 2016 Term Loan borrowed at funding. Prior to funding, CME BV will enter into unsecured interest
+rate hedge arrangements to protect against changes in the interest rate on the 2016 Term Loan during its term, and Time Warner will guarantee CME BV’s
+obligations under such arrangements.
+In addition, on February 19, 2016, CME entered into an amendment to extend the maturity of its €251 million senior unsecured term loan obtained in
+2014 from third-party financial institutions (the “2014 Term Loan”) from November 1, 2017 to November 1, 2018. Time Warner will continue to guarantee
+CME’s obligations under the 2014 Term Loan.
+Time Warner and CME also agreed on February 19, 2016 to amend and restate the $115 million revolving credit facility Time Warner provided CME
+in 2014 to reduce the size of the facility to $50 million as of January 1, 2018 and to extend its term from 2017 to 2021. Amounts outstanding under the
+revolving credit facility bear interest at a rate based on CME’s net leverage. Beginning in April 2016, CME must pay a portion of the interest for each
+applicable quarterly interest period in cash and may, at CME’s option, pay the remainder in kind by adding such amount to the outstanding principal amount
+of the revolving credit facility. As of February 19, 2016, there were no amounts outstanding under the revolving credit facility.
+The Company expects to record a pretax gain of approximately $90 million in the quarter ended June 30, 2016 based on the difference between the
+Company’s carrying value and the net proceeds it will receive in April 2016 in connection with the repayment of the Senior Secured Notes it holds and the
+TW Term Loan. Additionally, when recognizing CME’s results for the quarter ended June 30, 2016 under the equity method of accounting, the Company
+expects to record a pretax charge of approximately $150 million related to these transactions.
+2015 Transaction
+On September 30, 2015, CME entered into a credit agreement (the “2015 Credit Agreement”) with third-party financial institutions for a €235 million
+senior unsecured term loan (the “2015 Term Loan”) that was funded in November 2015 and matures on November 1, 2019. Time Warner has guaranteed
+CME’s obligations under the 2015 Credit Agreement for an annual fee equal to 8.5% less the interest rate on the 2015 Term Loan, to be paid to Time Warner
+semi-annually in cash or in kind at CME’s option. CME used the proceeds of the 2015 Term Loan to repay the $261 million aggregate principal amount of
+its 5.0% Senior Convertible Notes due 2015 (the “2015 Notes”) at maturity on November 15, 2015. As consideration for assisting CME in refinancing the
+2015 Notes, Time Warner also earned a commitment fee of $9 million, which will accrue interest at a rate of 8.5%. In November 2015, CME entered into
+unsecured interest rate hedge arrangements to protect against changes in the interest rate on the 2015 Term Loan during its term. Time Warner has guaranteed
+CME’s obligations under the hedge arrangements.
+Fandango
+On February 17, 2016, Warner Bros. and NBCUniversal Media LLC (“NBCUniversal”) entered into an agreement under which Warner Bros. agreed to
+sell its Flixster business in exchange for a 25% interest in Fandango Media, LLC, a subsidiary of NBCUniversal (“Fandango”). In connection with the
+transaction, Warner Bros. also agreed to pay Fandango approximately $25 million, reflecting its proportionate share of certain acquisitions completed by
+Fandango between November 2015 and January 2016. The transaction, which is subject to customary closing conditions, is expected to be completed early
+in the second quarter of 2016. Upon the closing of the transaction, Warner Bros. expects to recognize a pre-tax gain of between $85 million and $95 million,
+based on the estimated carrying value of the net assets transferred to Fandango.
+Programming Impairments
+During 2015, Turner conducted a strategic evaluation of its programming, and, as a result of such evaluation, decided to no longer air certain
+programming, which consisted primarily of licensed programming. In connection with that decision, the Turner segment incurred $131 million of
+programming impairments, which were partially offset by $2 million of intersegment eliminations primarily related to programming licensed by the Warner
+Bros. segment to the Turner segment. Such charges have been classified as Costs of revenues in the accompanying Consolidated Statement of Operations.
+iStreamPlanet
+In August 2015, Turner acquired a majority ownership interest in iStreamPlanet Co., LLC (“iStreamPlanet”), a provider of streaming and cloud-based
+video and technology services, for $148 million, net of cash acquired. As a result of Turner’s acquisition of the additional interests in iStreamPlanet, Turner
+recorded a $3 million gain on a previously held investment accounted for under the cost method and began consolidating iStreamPlanet in the third quarter
+of 2015. In connection with the acquisition, $29 million of Redeemable noncontrolling interest was recorded in the accompanying Consolidated Balance
+Sheet.
+2015 Debt Offerings
+During 2015, Time Warner issued $3.0 billion and €700 million aggregate principal amount of debt securities in three separate offerings under its
+shelf registration statement. The Company used a portion of the net proceeds from the first offering to retire at maturity the $1.0 billion aggregate principal
+amount outstanding of its 3.15% Notes due July 15, 2015. See “Financial Condition and Liquidity – Outstanding Debt and Other Financing Arrangements”
+for further information.
+Debt Tender Offer and Redemption
+In June 2015, Time Warner purchased $687 million aggregate principal amount of the $1.0 billion aggregate principal amount outstanding of its
+5.875% Notes due 2016 (the “2016 Notes”) through a tender offer. In August 2015, the Company redeemed the $313 million aggregate principal amount of
+the 2016 Notes that remained outstanding following the tender offer. The premiums paid and costs incurred in connection with this purchase and redemption
+were $71 million for the year ended December 31, 2015 and were recorded in Other loss, net in the accompanying Consolidated Statement of Operations. See
+“Financial Condition and Liquidity – Outstanding Debt and Other Financing Arrangements” for further information.
+Revolving Credit Facilities Maturity Date Extension
+On December 18, 2015, Time Warner amended its $5.0 billion of senior unsecured credit facilities (the “Revolving Credit Facilities”), which consist
+of two $2.5 billion revolving credit facilities, to extend the maturity dates of both facilities from December 18, 2019 to December 18, 2020. See “Financial
+Condition and Liquidity – Outstanding Debt and Other Financing Arrangements” for more information.
+Venezuela Currency
+Certain of the Company’s divisions conduct business with third parties located in Venezuela and, as a result, the Company holds net monetary assets
+denominated in Venezuelan Bolivares Fuertes (“VEF”) that primarily consist of cash and accounts receivable. Because of Venezuelan government-imposed
+restrictions on the exchange of VEF into foreign currency in Venezuela, the Company has not been able to convert VEF earned in Venezuela into U.S. Dollars
+through the Venezuelan government’s foreign currency exchanges.
+On February 10, 2015, Venezuelan government officials announced changes to Venezuela’s foreign currency exchange system. Those changes
+included the elimination of the SICAD 2 exchange due to the merger of the SICAD 1 and SICAD 2 exchanges into a single SICAD exchange as well as the
+creation of the Simadi exchange, which is a new free market foreign currency exchange. On their initial date of activity, the exchange rates published by the
+Central Bank of Venezuela were 12 VEF to each U.S. Dollar for the SICAD exchange and 170 VEF to each U.S. Dollar for the Simadi exchange. Given the
+restrictions associated with the official government rate and the SICAD exchange, starting on February 10, 2015, the Company began to use the Simadi
+exchange rate to remeasure its VEF-denominated transactions and balances and recognized a pretax foreign exchange loss of $22 million in the Consolidated
+Statement of Operations during the year ended December 31, 2015. As of December 31, 2014, the Company used the SICAD 2 exchange rate to remeasure its
+VEF-denominated monetary assets, and, for the year ended December 31, 2014, recognized a pre-tax foreign exchange loss of $173 million in the
+accompanying Consolidated Statement of Operations.

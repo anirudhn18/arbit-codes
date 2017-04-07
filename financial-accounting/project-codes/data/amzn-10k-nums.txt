@@ -1,0 +1,142 @@
+CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD $ 14,557 $ 8,658 $ 8,084
+OPERATING ACTIVITIES:
+Net income (loss) 596 (241) 274
+Adjustments to reconcile net income (loss) to net cash from operating activities:
+Depreciation of property and equipment, including internal-use software and website development, and
+other amortization, including capitalized content costs 6,281 4,746 3,253
+Stock-based compensation 2,119 1,497 1,134
+Other operating expense (income), net 155 129 114
+Losses (gains) on sales of marketable securities, net 5 (3) 1
+Other expense (income), net 245 62 166
+Deferred income taxes 81 (316) (156)
+Excess tax benefits from stock-based compensation (119) (6) (78)
+Changes in operating assets and liabilities:
+Inventories (2,187) (1,193) (1,410)
+Accounts receivable, net and other (1,755) (1,039) (846)
+Accounts payable 4,294 1,759 1,888
+Accrued expenses and other 913 706 736
+Additions to unearned revenue 7,401 4,433 2,691
+Amortization of previously unearned revenue (6,109) (3,692) (2,292)
+Net cash provided by (used in) operating activities 11,920 6,842 5,475
+INVESTING ACTIVITIES:
+Purchases of property and equipment, including internal-use software and website development, net (4,589) (4,893) (3,444)
+Acquisitions, net of cash acquired, and other (795) (979) (312)
+Sales and maturities of marketable securities 3,025 3,349 2,306
+Purchases of marketable securities (4,091) (2,542) (2,826)
+Net cash provided by (used in) investing activities (6,450) (5,065) (4,276)
+FINANCING ACTIVITIES:
+Excess tax benefits from stock-based compensation 119 6 78
+Proceeds from long-term debt and other 353 6,359 394
+Repayments of long-term debt and other (1,652) (513) (231)
+Principal repayments of capital lease obligations (2,462) (1,285) (775)
+Principal repayments of finance lease obligations (121) (135) (5)
+Net cash provided by (used in) financing activities (3,763) 4,432 (539)
+Foreign-currency effect on cash and cash equivalents (374) (310) (86)
+Net increase (decrease) in cash and cash equivalents 1,333 5,899 574
+CASH AND CASH EQUIVALENTS, END OF PERIOD $ 15,890 $ 14,557 $ 8,658
+SUPPLEMENTAL CASH FLOW INFORMATION:
+Cash paid for interest on long-term debt $ 325 $ 91 $ 97
+Cash paid for interest on capital and finance lease obligations 153 86 41
+Cash paid for income taxes (net of refunds) 273 177 169
+Property and equipment acquired under capital leases 4,717 4,008 1,867
+Property and equipment acquired under build-to-suit leases 544 920 877
+Net product sales $ 79,268 $ 70,080 $ 60,903
+Net service sales 27,738 18,908 13,549
+Total net sales 107,006 88,988 74,452
+Operating expenses (1):
+Cost of sales 71,651 62,752 54,181
+Fulfillment 13,410 10,766 8,585
+Marketing 5,254 4,332 3,133
+Technology and content 12,540 9,275 6,565
+General and administrative 1,747 1,552 1,129
+Other operating expense (income), net 171 133 114
+Total operating expenses 104,773 88,810 73,707
+Income from operations 2,233 178 745
+Interest income 50 39 38
+Interest expense (459) (210) (141)
+Other income (expense), net (256) (118) (136)
+Total non-operating income (expense) (665) (289) (239)
+Income (loss) before income taxes 1,568 (111) 506
+Provision for income taxes (950) (167) (161)
+Equity-method investment activity, net of tax (22) 37 (71)
+Net income (loss) $ 596 $ (241) $ 274
+Basic earnings per share $ 1.28 $ (0.52) $ 0.60
+Diluted earnings per share $ 1.25 $ (0.52) $ 0.59
+Weighted-average shares used in computation of earnings per share:
+Basic 467 462 457
+Diluted 477 462 465
+_____________
+(1) Includes stock-based compensation as follows:
+Fulfillment $ 482 $ 375 $ 294
+Marketing 190 125 88
+Technology and content 1,224 804 603
+General and administrative 223 193 149
+Net income (loss) $ 596 $ (241) $ 274
+Other comprehensive income (loss):
+Foreign currency translation adjustments, net of tax of $10, $(3), and $(20) (210) (325) 63
+Net change in unrealized gains (losses) on available-for-sale securities:
+Unrealized gains (losses), net of tax of $(5), $1, and $3 (7) 2 (10)
+Reclassification adjustment for losses (gains) included in “Other income (expense),
+net,” net of tax of $0, $(1), and $(1) 5 (3) 1
+Net unrealized gains (losses) on available-for-sale securities (2) (1) (9)
+Total other comprehensive income (loss) (212) (326) 54
+Comprehensive income (loss) $ 384 $ (567) $ 328
+Current assets:
+Cash and cash equivalents $ 15,890 $ 14,557
+Marketable securities 3,918 2,859
+Inventories 10,243 8,299
+Accounts receivable, net and other 6,423 5,612
+Total current assets 36,474 31,327
+Property and equipment, net 21,838 16,967
+Goodwill 3,759 3,319
+Other assets 3,373 2,892
+Total assets $ 65,444 $ 54,505
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable $ 20,397 $ 16,459
+Accrued expenses and other 10,384 9,807
+Unearned revenue 3,118 1,823
+Total current liabilities 33,899 28,089
+Long-term debt 8,235 8,265
+Other long-term liabilities 9,926 7,410
+Authorized shares — 5,000
+Issued shares — 494 and 488
+Outstanding shares — 471 and 465 5 5
+Treasury stock, at cost (1,837) (1,837)
+Additional paid-in capital 13,394 11,135
+Accumulated other comprehensive loss (723) (511)
+Retained earnings 2,545 1,949
+Total stockholders’ equity 13,384 10,741
+Total liabilities and stockholders’ equity $ 65,444 $ 54,505
+Balance as of January 1, 2013 454 $ 5 $ (1,837) $ 8,347 $ (239) $ 1,916 $ 8,192
+Net income — — — — — 274 274
+Other comprehensive income (loss) — — — — 54 — 54
+Exercise of common stock options 5 — — 4 — — 4
+Excess tax benefits from stock-based
+compensation — — — 73 — — 73
+Stock-based compensation and issuance of
+employee benefit plan stock — — — 1,149 — — 1,149
+Balance as of December 31, 2013 459 5 (1,837) 9,573 (185) 2,190 9,746
+Net loss — — — — — (241) (241)
+Other comprehensive income (loss) — — — — (326) — (326)
+Exercise of common stock options 6 — — 2 — — 2
+Excess tax benefits from stock-based
+compensation — — — 6 — — 6
+Stock-based compensation and issuance of
+employee benefit plan stock — — — 1,510 — — 1,510
+Issuance of common stock for acquisition
+activity — — — 44 — — 44
+Balance as of December 31, 2014 465 5 (1,837) 11,135 (511) 1,949 10,741
+Net income — — — — — 596 596
+Other comprehensive income (loss) — — — — (212) — (212)
+Exercise of common stock options 6 — — 4 — — 4
+Excess tax benefits from stock-based
+compensation — — — 119 — — 119
+Stock-based compensation and issuance of
+employee benefit plan stock — — — 2,131 — — 2,131
+Issuance of common stock for acquisition
+activity — — — 5 — — 5
+Balance as of December 31, 2015 471 $ 5 $ (1,837) $ 13,394 $ (723) $ 2,545 $ 13,384
+Shares used in computation of basic earnings per share 467 462 457
+Total dilutive effect of outstanding stock awards 10 — 8
+Shares used in computation of diluted earnings per share 477 462 465

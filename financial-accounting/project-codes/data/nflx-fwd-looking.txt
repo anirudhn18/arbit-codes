@@ -1,0 +1,83 @@
+People love TV content, but they don't love the linear TV experience, where channels present programs only at particular times on non-portable screens with complicated remote controls. Now Internet TV - which is on-demand, personalized, and available on any screen - is replacing the linear TV experience.
+
+Changes of this magnitude are rare.   Radio was the dominant home entertainment media for nearly 50 years until linear TV took over in the 1950’s and 1960’s.   Linear video in the home was a huge advance over radio, and very large firms emerged to meet consumer desires over the last 60 years.   The new era of Internet TV is likely to be very big and enduring also, given the flexibility and ubiquity of the Internet around the world.   We hope to continue being one of the leading firms of the Internet TV era.  
+
+Internet TV Apps
+The world's leading linear TV networks now offer their programming on-demand through apps that run on phones and smart TVs. These apps, such as CBS All Access, BBC iPlayer, and HBO Now, enable binge viewing and catch-up viewing. Existing linear networks that offer compelling Internet TV apps will generate more viewing and become more valuable. Those networks that fail to develop first-class apps will lose viewing and revenue.
+
+Internet TV is expanding rapidly because of:
+
+?    Ecosystem Growth: The Internet is getting faster and more reliable, while penetration of smart TVs and adapters is also rising
+
+?    Freedom and Flexibility: Consumers can watch content on demand, on any screen, and the experience is personalized to individual tastes
+
+?    Rapid Innovation: Internet TV apps have frequent improvement updates and streaming is the primary source of UHD 4K video content.
+
+Eventually, as linear TV viewing falls in viewing and value, the spectrum it now uses on cable, fiber, and over-the-air will be reallocated to expand Internet data transmission. Satellite TV subscribers will be fewer and more rural. In a few decades, linear TV will be seen as a great transitional technology that gave way to Internet TV, like fixed-line telephone gave way to the mobile phone.
+
+Content People Love
+In 2016, we expect to spend $5B on a P&L basis and over $6B on a cash basis on content for our members. In addition we'll spend nearly $1B on marketing in 2016, getting people so excited about our content that they join Netflix.
+
+People's tastes are very broad, even in a single market. The Internet allows us to offer a wide variety, and to have our user interface quickly learn and make recommendations based upon individual users' tastes. Those members who love action blockbusters, Korean soaps, anime, sci-fi, Sundance films, zombie shows, or kids cartoons will find that Netflix fills their homepage with relevant and interesting titles.
+
+As we've gained experience, we've found that the 20th documentary about bicycling will mostly just take away viewing from the other 19 such docs, and instead of trying to have everything, we should strive to have the best in each category. As such, we are actively curating our service rather than carrying as many titles as we can.
+
+Our licensing is generally time-based, so that we might pay for a multi-year exclusive subscription video-on-demand (SVOD) license for a given title. In each market, we license content from multiple suppliers, mirroring the fragmentation of the content industry. Typically our bids are for exclusive access to the SVOD rights, and we are up against various cable and broadcast networks, as well as online video competitors. As a rule, content owners always want another bidder, and never want one bidder to become too strong.
+
+Since 2013, we've been at a scale where we can economically create original content for Netflix and our offering has grown as we gain further scale and confidence. With each original, we learn more about what our members want, about how to produce and promote effectively, and about the positive impact of originals on our brand.
+
+We believe we have a major advantage over our linear competitors when it comes to launching a series or a film. Linear networks need to attract an audience on a given night at a given time. We can be much more flexible. Because each show on Netflix is not competing for scarce prime-time slots like on linear TV, a show that is taking a long time to find its audience is one we can keep nurturing. This allows us to prudently commit to a whole season, rather than just a pilot episode. In addition, we are able to provide a platform for more creative storytelling (varying run times per episode based on storyline, no need for week to week recaps, no fixed notion of what constitutes a "season"). We believe this makes it easier for us to attract creative talent.
+
+By personalizing promotion of the right content to the right member, we have a large opportunity to promote our original content, one that's effectively unlimited in duration. Long after the premiere of season one of House of Cards, large numbers of members are just starting the series each week.
+
+We are making great headway with our slate of original series, which is a rapidly growing proportion of our spending. Any linear network would be proud to show them. Our success is due in part to great creative execution by our team as well as the power of our large on-demand platform.
+
+Netflix Focus
+Netflix is a global Internet TV network offering movies and TV series commercial-free, with unlimited viewing on any Internet-connected screen for an affordable, no-commitment monthly fee. Netflix is a focused passion brand, not a do-everything brand: Starbucks, not 7-Eleven; Southwest, not United; HBO, not Dish.
+
+We don't offer pay-per-view or free ad-supported content. Those are fine business models that other firms do well. We are about flat-fee unlimited viewing commercial-free.
+
+We are not a generic "video" company that streams all types of video such as news, user-generated, sports, porn, music video, gaming, and reality. We are a movie and TV series entertainment network.
+
+We are a relief from the complexity and frustration that embody most MVPD relationships with their customers. We strive to be extremely straightforward. There is no better example of this than our no-hassle online cancellation. Members can leave when they want and come back when they want.
+
+We are about the freedom of on-demand and the fun of binge viewing. We are about the flexibility of any screen at any time. We are about a personal experience that finds for each person the most pleasing titles from around the world. To deliver this experience to our members, we expect to spend over $800 million on technology & development in 2016.
+
+Competition
+We compete for a share of members' time and spending for relaxation and stimulation, against linear networks, pay-per-view content, DVD watching, other Internet networks, video gaming, web browsing, magazine reading, video piracy, and much more. Over the coming years, most of these forms of entertainment will improve.
+
+If you think of your own behavior any evening or weekend in the last month when you did not watch Netflix, you will understand how broad and vigorous our competition is.
+
+We strive to win more of our members' "moments of truth". Those decision points are, say, at 7:15 pm when a member wants to relax, enjoy a shared experience with friends and family, or is bored. The member could choose Netflix, or a multitude of other options.
+
+Because the entertainment market is so broad, multiple firms can be successful. For example, HBO is now growing faster than in years past, while our business is also expanding. Many people will subscribe to both HBO and Netflix since we have different exclusive content. The transition to Internet TV, with its greater consumer satisfaction, will mean growth for many Internet TV services.
+
+Video piracy is a substantial competitor for entertainment time in many international markets. It is free and offers very broad selection. Were video piracy to become easy, reliable, and socially acceptable, it could become our largest competitor. Global music revenues have been falling for 15 years due to large scale music piracy. Great inexpensive services like Netflix will hopefully help prevent video from following the decline of music.
+
+ISP & MVPD relationships
+ISP subscribers pay for Internet access and expect to be able to enjoy Internet TV such as Netflix. Our Open Connect program supports hundreds of large and small ISPs to directly interconnect with the Netflix network for free in regional locations, rather than going through third-party transit providers, which lowers both our costs and that of the ISPs.
+
+Sometimes, large ISPs want to use their market power to extract interconnect fees from us and others. We fight for free interconnection, where neither side charges the other, as we think Netflix and consumers are best served by strong network neutrality. We have made good progress in these battles, and they are usually country and ISP specific. We don't intend to try to collect a percentage of broadband revenue from ISPs, despite the facts that we are a substantial portion of what consumers do with their Internet connection, and that this payment would parallel the payments to basic cable networks. Strong net neutrality, where payments are neutral between ISPs and content providers, is better for supporting amazing innovation for consumer benefit.
+
+With MVPDs that have an Internet-capable TV set top device, such as DISH (USA), Virgin (UK), Telus (Canada), Orange (France), and many others, we offer integrated viewing experiences (and in many cases integrated billing) which increase the use of the operator set top device. While some MVPDs want to inhibit our growth, others would prefer that our growth happen through their remote control and set top experience.
+
+Netflix margin structure and growth
+Our US contribution margin structure is set mostly top down. For any given future period, we estimate revenue, and decide what we want to spend, and how much margin we want in that period. Competitive pressures in bidding for content would lead us to have slightly less content than we would otherwise, rather than overspending. The same is true for our marketing budget. The output variable is membership growth that those spending choices influence.
+
+The US contribution margin structure we have chosen is to grow content spending plus marketing slightly slower than we grow revenue, increasing our contribution margin to 40% by 2020. We think we can grow to 60-90 million members in the US, based upon our trajectory to date and the continued growth of Internet TV.
+
+Our global margin strategy is to expand internationally as fast as possible while staying slightly profitable. The group of international markets we entered first (Canada, Latin America, the UK, Ireland, the Nordic countries and the Netherlands) are growing quickly and have already become contribution-positive.  These markets continue to grow and generate meaningful profits that power the expansion into the remaining world markets we launched in 2016.    We expect to run just barely profitable on a net income basis through 2016, but from 2017 onwards we expect to generate material global profits.
+
+With our content spending, and in particular our original content spending, cash outlays are initially greater than content amortization, so our free cash flow is substantially less than our profitability during rapid content expansion. We have generally funded these cash pre-pay needs with debt. We amortize content as quickly as justified, given industry norms and viewing history.
+
+Global
+Netflix is available virtually everywhere except in China, where we continue to explore options and our current investment plans are modest. Our growth internationally will unfold over many years as we improve our service. In the 130+ new markets we launched in 2016, we are starting by primarily targeting outward-looking, affluent consumers with international credit cards and smartphones. As with every market we’ve launched, our approach is to listen, learn and improve rapidly, adding more content, additional languages and a better Netflix experience over time to delight members.
+
+We understand that awareness of Netflix in these new markets is mixed and that there are cultural differences and some variances in content tastes around the world. There are also challenges with the broadband and payment infrastructures in certain countries. But we also believe in the growing ubiquity of the Internet and rapid technological progress and that great, high-quality storytelling has universal appeal that transcends borders.
+
+That’s why we are increasingly licensing content on a global basis, so Netflix members everywhere in the world can enjoy the same movies and TV series, free of legacy business models and outdated restrictions. In addition, we are developing a growing number of non-English language originals from places such as Mexico, France, Italy, Japan and Brazil. With our global platform, Netflix is uniquely positioned to bring engaging stories from many cultures to people all across the globe.
+
+As Netflix expands globally, we understand that consumers and governments will likewise raise their expectations for us. We expect to meet those expectations and work with policymakers to ensure that the old policies that applied to linear TV are not reflexively applied to Internet TV.
+
+Conclusion
+We started in 1997 as a DVD-rental-by-mail firm, and spent the first five years struggling to get to a sustainable model that was cash flow positive. We spent most of the next five years fighting with Blockbuster in the US. We began streaming in the US in 2007, and internationally in 2010. Our sobering Qwikster DVD misstep was in 2011. Our first original series debuted in 2013. We became global in 2016, nearly twenty years after starting Netflix. Over the following decades, Internet TV will replace linear, and we hope to keep leading by offering an amazing entertainment experience.

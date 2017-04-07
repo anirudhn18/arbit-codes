@@ -1,0 +1,122 @@
+Consolidated revenues for 2015 and 2014 increased as compared to prior years due to growth in global streaming average paying memberships, the majority
+of which was growth in our international memberships reflecting our expansion and focus on Netflix as a global Internet TV network. For the year ended
+December 31, 2015, the impact from membership growth was slightly offset by a decrease in average monthly revenue per paying streaming membership resulting
+from unfavorable foreign currency fluctuations impacting our International streaming segment. This was partially offset by increases resulting from price changes
+and plan mix. The decrease in operating income for the year ended December 31, 2015 as compared to the year ended December 31, 2014 is due primarily to
+increased marketing and headcount costs to support our international expansion in addition to increased content expenses as we continue to acquire, license and
+produce content, including more Netflix originals. Net income is further impacted by the increase in interest expense associated with our debt issuance in the first
+quarter of 2015 as well as to an increase in losses on foreign currency denominated transactions.
+We offer three types of streaming membership plans. In the U.S. our basic plan is priced at $7.99 per month and includes access to standard definition quality
+streaming on a single screen at a time. Our most popular streaming plan is priced at $9.99 per month and includes access to high definition quality streaming on
+two screens concurrently. Our premium plan is priced at $11.99 per month and includes access to high definition and ultra-high definition quality content on four
+screens concurrently. Internationally, the membership plans are structured similarly to the U.S. and range in price from the U.S. dollar equivalent of approximately
+$5.00 to $18.00 per month.
+We expect that from time to time the prices of our membership plans in each country may change. For instance, in the second half of 2015, we increased the
+price of our two-screen high definition plan in the U.S. and several European countries. In May 2014, in the U.S., we increased the price of our high definition plan
+from $7.99 per month to $8.99 per month with existing memberships grandfathered for a two year period. In October 2015, in the U.S., we increased the price of
+this same high definition plan from $8.99 per month to $9.99 per month with existing memberships grandfathered for a one year period. In 2016, the grandfathered
+pricing period will expire for a substantial number of U.S. memberships and the members will have the option of electing the basic streaming plan at $7.99 or
+continuing on the high definition plan at the higher price of $9.99.
+The following represents the key elements to our segment results of operations:
+• We define contribution profit (loss) as revenues less cost of revenues and marketing expenses incurred by the segment. We believe this is an important
+measure of our operating segment performance as it represents each segment's performance before global corporate costs.
+• For the Domestic and International streaming segments, content expenses, which include the amortization of the streaming content assets and other
+expenses associated with the licensing and acquisition of streaming content, represent the vast majority of cost of revenues. Streaming content rights were
+generally obtained for our current geographic regions. As we expanded internationally, we obtained additional rights for the new geographies. With our
+global expansion, we now aspire to obtain global rights for our new content. We allocate this content between the Domestic and International segments
+based on estimated fair market value. Other cost of revenues such as streaming delivery expenses, customer service and payment processing fees,
+including those we pay to our integrated payment partners, tend to be lower as a percentage of total cost of revenues as compared to content licensing
+expenses. We have built our
+17
+Table of Contents
+own global content delivery network ("Open Connect") to help us efficiently stream a high volume of content to our members over the Internet.
+Streaming delivery expenses, therefore, also include equipment costs related to our content delivery network and all third-party costs, such as cloud
+computing costs, associated with delivering streaming content over the Internet. Cost of revenues in the Domestic DVD segment consist primarily of
+delivery expenses, content expenses, including amortization of DVD content assets and revenue sharing expenses, and other expenses associated with our
+DVD processing and customer service centers. Delivery expenses for the Domestic DVD segment consist of the postage costs to mail DVDs to and from
+our members and the packaging and label costs for the mailers.
+• For the Domestic and International streaming segments, marketing expenses consist primarily of advertising expenses and payments made to our affiliates
+and device partners. Advertising expenses include promotional activities such as digital and television advertising. Payments to our affiliates and device
+partners include fixed fee and /or revenue sharing payments. Marketing expenses are incurred by our Domestic and International streaming segments
+given our focus on building consumer awareness of the streaming offerings and in particular our original content. Marketing expenses incurred by our
+International streaming segment have been significant and fluctuate dependent upon the number of international territories in which our streaming service
+is offered and the timing of the launch of new territories. We do not incur marketing expenses for the Domestic DVD segment.
+• We have demonstrated our ability to grow domestic streaming contribution margin as evidenced by the increase in contribution margin from 17% in 2012
+to 33% in 2015. As a result of our focus on growing the streaming segments, contribution margins for the Domestic and International streaming segments
+are lower than for our Domestic DVD segment.
+18
+Table of Contents
+Segment Results
+Domestic Streaming Segment
+In the Domestic streaming segment, we derive revenues from monthly membership fees for services consisting solely of streaming content to our members in
+the United States. Our two screen high definition plan continues to be the most popular plan choice for new memberships. The increase in our domestic streaming
+revenues was due to a 17% growth in the average number of paid memberships and a 4% increase in average monthly revenue per paying membership resulting
+from our price changes and plan mix.
+The increase in domestic streaming cost of revenues was primarily due to a $208.1 million increase in content expenses relating to our existing and new
+streaming content, including more exclusive and original programming. In addition, we had a $37.9 million increase in streaming delivery expenses and a $39.4
+million increase in other costs, such as payment processing fees and customer service call centers, due to our growing member base.
+Domestic marketing expenses increased primarily due to an increase in advertising and public relations spending.
+Our Domestic streaming segment had a contribution margin of 33% for the year ended December 31, 2015, which increased as compared to the contribution
+margin of 27% for the year ended December 31, 2014 due to growth in paid memberships and revenue, which continued to outpace content and marketing
+spending. Our 2020 domestic streaming contribution margin target remains at 40%.
+Year ended December 31, 2014 as compared to the year ended December 31, 2013
+The increase in our domestic streaming revenues was due to the 22% growth in the average number of paid memberships, as well as to the 2% increase in
+average monthly revenue per paying membership resulting from our price increase for new members in the second quarter of 2014 and introduction of the higher
+priced plan in 2013.
+The increase in domestic streaming cost of revenues was primarily due to the $242.3 million increase in content expenses relating to our existing and new
+streaming content, including more exclusive and original programming. In addition, streaming delivery expenses increased by $59.5 million and other costs, such
+as payment processing fees and customer service call centers, increased $36.6 million due to our growing member base.
+Domestic marketing expenses increased primarily due to an increase in advertising and public relations spending.
+Our Domestic streaming segment had a contribution margin of 27% for the year ended December 31, 2014, which increased as compared to the contribution
+margin of 23% for the year ended December 31, 2013 due to growth in paid memberships and revenue, which continued to outpace content and marketing
+spending.
+In the International streaming segment, we derive revenues from monthly membership fees for services consisting solely of streaming content to our
+members outside the United States. We launched our streaming service in Canada in September 2010 and have continuously expanded our services internationally
+as shown below. In January 2016 we announced the availability of our streaming service virtually everywhere in the world, with the exception of The People's
+Republic of China and territories where U.S. companies are not allowed to operate.
+The increase in our international revenues was due to the 66% growth in the average number of paid international memberships offset partially by
+a 10% decrease in average monthly revenue per paying membership. The decrease in average monthly revenue per paying membership was due to the impact of
+exchange rate fluctuations and to a lesser extent the impact of absorbing higher VAT rates across our European markets beginning January 1, 2015. These
+decreases were partially offset by our pricing changes and plan mix. We believe international revenues would have been approximately $331 million higher in
+2015 if foreign exchange rates had remained consistent with those for the year ended December 31, 2014.
+The increase in international cost of revenues was primarily due to a $522.1 million increase in content expenses primarily relating to expenses for territories
+launched in the last eighteen months, coupled with existing and new streaming content, including more exclusive and original programming. Other costs increased
+$104.2 million primarily due to increases in our streaming delivery expenses, costs associated with our customer service call centers and payment processing fees,
+all driven by our growing member base, partially offset by decreases resulting from exchange rate fluctuations. Average paid international streaming memberships
+accounted for 35% of total average paid streaming memberships as of December 31, 2015, as compared to 27% of total average paid streaming memberships as of
+December 31, 2014.
+International marketing expenses for the year ended December 31, 2015 increased as compared to the year ended December 31, 2014 mainly due to expenses
+for territories launched in the last eighteen months.
+International contribution losses increased $173.6 million year over year due to our increased spending for our international expansion and the impact of
+foreign currency exchange rate fluctuations.
+Year ended December 31, 2014 as compared to the year ended December 31, 2013
+The increase in our international revenues was primarily due to the 82% growth in the average number of paid international memberships as well as the 1%
+increase in average monthly revenue per paying member resulting from the price increase on our most popular streaming plan and the introduction of the premium
+plan, offset partially by the impact of exchange rate fluctuations. Average paid international streaming memberships accounted for 27% of total average paid
+streaming memberships as of December 31, 2014, as compared to 20% of total average paid streaming memberships as of December 31, 2013.
+The increase in international cost of revenues was primarily due to a $311.5 million increase in content expenses including content for our new markets as
+well as more exclusive and original programming. Other costs increased $60.3 million primarily due to increases in our streaming delivery expenses, costs
+associated with our customer service call centers and payment processing fees, all driven by our growing member base.
+International marketing expenses for the year ended December 31, 2014 increased as compared to the year ended December 31, 2013 mainly due to expenses
+for territories launched during 2014.
+International contribution losses improved $114.5 million year over year, as a result of growing memberships and revenues faster than content and marketing
+spending.
+In the Domestic DVD segment, we derive revenues from our DVD-by-mail membership services. The price per plan for DVD-by-mail varies from $4.99 to
+$15.99 per month according to the plan chosen by the member. DVD-by-mail plans differ by the number of DVDs that a member may have out at any given point.
+Members electing access to high definition Blu-ray discs, in addition to standard definition DVDs, pay a surcharge ranging from $2 to $4 per month for our most
+popular plans.
+The decrease in our domestic DVD revenues was due to a 16% decrease in the average number of paid memberships.
+The decrease in domestic DVD cost of revenues was primarily due to a $21.0 million decrease in content expenses and a $38.9 million decrease in delivery
+expenses resulting from a 21% decrease in the number of DVDs mailed to members. The decrease in shipments was driven by a decline in the number of DVD
+memberships coupled with a decrease in usage by these members. Other costs, primarily those associated with processing and customer service expenses,
+decreased $13.1 million primarily due to a decrease in hub operation expenses resulting from the decline in DVD shipments
+Our Domestic DVD segment had a contribution margin of 50% for the year ended December 31, 2015, up from 48% for the year ended December 31, 2014
+due to the decrease in DVD usage by paying members.
+Year ended December 31, 2014 as compared to the year ended December 31, 2013
+The decrease in our domestic DVD revenues was due to a 16% decrease in the average number of paid memberships.
+The decrease in domestic DVD cost of revenues was primarily due to a $16.0 million decrease in content expenses and a $43.0 million decrease in delivery
+expenses resulting from a 22% decrease in the number of DVDs mailed to members. The decrease in shipments was driven by a decline in the number of DVD
+memberships coupled with a decrease in usage by these members. Other costs, primarily those associated with processing and customer service expenses,
+decreased $15.6 million primarily due to a decrease in hub operation expenses resulting from the decline in DVD shipments.
+Our Domestic DVD segment had a contribution margin of 48% for the year ended December 31, 2014, and was relatively flat as compared to the year ended
+December 31, 2013.
