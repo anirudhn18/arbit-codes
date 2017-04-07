@@ -1,0 +1,49 @@
+---
+title: ""
+author: "Anirudh Narayanan"
+date: "March 29, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Load necessary packages - install packages if necessary.
+
+required_packages = c( 
+  # Add to this list the packages that you will use - if unavailable, it will be 
+  # automatically installed"readr",
+  "plyr",
+  "readr",
+  "data.table",
+  "dplyr",
+  "tidyr",
+  "ggplot2",
+  "zoo",
+  "lubridate",
+  "caret",
+  "kknn",
+  "h2o",
+  "gbm",
+  "rpart",
+  "randomForest",
+  "xgboost",
+  "mlr",
+  "parallel",
+  "parallelMap"
+)
+
+packages_to_install = required_packages[!(required_packages %in% installed.packages()[, 1])]
+
+if (length(packages_to_install) > 0) {
+  install.packages(packages_to_install)
+}
+
+suppressPackageStartupMessages({
+  sapply(required_packages, require, character.only = TRUE)
+})
+
+rm(packages_to_install, required_packages)
+```
+
+##
